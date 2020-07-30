@@ -19,8 +19,10 @@ I know and what I have to bring the ultimate developer satisfaction and happines
 <hr></hr>
 
 
-![NidhishKrishnan github stats](https://github-readme-stats.vercel.app/api?username=nidhishkrishnan&show_icons=true&count_private=true)
-![NidhishKrishnan github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=nidhishkrishnan&show_icons=true&count_private=true)
+<img src="https://github-readme-stats.vercel.app/api?username=nidhishkrishnan&show_icons=true&count_private=true">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nidhishkrishnan&show_icons=true&count_private=true">
+
+
 
 
 
