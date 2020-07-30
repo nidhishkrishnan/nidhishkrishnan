@@ -10,6 +10,7 @@ I write software but not an expert and out of interest I spend most of my time i
 I know and what I have to bring the ultimate developer satisfaction and happiness
     </div>
 </div>
+<br></br>
 
 [![Visits Badge](https://badges.pufler.dev/visits/nidhishkrishnan/nidhishkrishnan)](https://github.com/nidhishkrishnan/nidhishkrishnan)
 [![LinkedIn Badge](http://img.shields.io/badge/-Nidhish%20Krishnan-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nidhishkrishnan/)](https://www.linkedin.com/in/nidhishkrishnan)
