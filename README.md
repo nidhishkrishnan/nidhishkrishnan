@@ -18,9 +18,16 @@ I know and what I have to bring the ultimate developer satisfaction and happines
 
 <hr></hr>
 
+<div style="-webkit-column-count: 2; -moz-column-count: 2; column-count: 2; -webkit-column-rule: 1px dotted #e0e0e0; -moz-column-rule: 1px dotted #e0e0e0; column-rule: 1px dotted #e0e0e0;">
+   <div style="display: inline-block;">
+  <img  align="center" src="https://github-readme-stats.vercel.app/api?username=nidhishkrishnan&show_icons=true&count_private=true">
+    </div>
+    <div style="display: inline-block;">
+        <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nidhishkrishnan&show_icons=true&count_private=true">
+    </div>
+</div>
 
-<img src="https://github-readme-stats.vercel.app/api?username=nidhishkrishnan&show_icons=true&count_private=true">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nidhishkrishnan&show_icons=true&count_private=true">
+
 
 
 
