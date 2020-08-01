@@ -19,10 +19,10 @@ I write software and out of interest spends most of my time in building stuffs b
 
 <div style="-webkit-column-count: 2; -moz-column-count: 2; column-count: 2; -webkit-column-rule: 1px dotted #e0e0e0; -moz-column-rule: 1px dotted #e0e0e0; column-rule: 1px dotted #e0e0e0;">
    <div style="display: inline-block;">
-  <a href="https://github.com/nidhishkrishnan"><img  align="left" src="https://github-readme-stats.vercel.app/api?username=nidhishkrishnan&show_icons=true&count_private=true"></a>
+  <a href="https://github.com/nidhishkrishnan"><img  align="left" src="https://github-readme-stats.vercel.app/api?username=nidhishkrishnan&show_icons=true&count_private=true&include_all_commits=true"></a>
     </div>
     <a href="https://github.com/nidhishkrishnan"><div style="display: inline-block;">
-        <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nidhishkrishnan&show_icons=true&count_private=truet">
+        <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nidhishkrishnan&show_icons=true&count_private=true&include_all_commits=true">
        </div></a>
 </div>
 
