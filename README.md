@@ -22,7 +22,7 @@ I write software and out of interest spends most of my time in building stuffs b
   <a href="https://github.com/nidhishkrishnan"><img  align="left" src="https://github-readme-stats.vercel.app/api?username=nidhishkrishnan&show_icons=true&count_private=true&include_all_commits=true&hide=contribs&card_width=98"></a>
     </div>
     <a href="https://github.com/nidhishkrishnan"><div style="display: inline-block;">
-        <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nidhishkrishnan&show_icons=true&count_private=true&include_all_commits=true&layout=compact&card_width=270">
+        <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nidhishkrishnan&show_icons=true&count_private=true&include_all_commits=true&layout=compact&card_width=265">
        </div></a>
 </div>
 
