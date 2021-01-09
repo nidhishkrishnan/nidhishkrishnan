@@ -6,7 +6,7 @@
     </div>
     <div style="display: inline-block;">
         Myself a Full Stack Developer inshort a passionate programmer who enjoys every minute of my life being a developer. 
-I write software and out of interest spends most of my time in building stuffs basically with Java and Angular. I like helping people by giving solutions with "what I know" and "what I have" to bring the ultimate developer satisfaction and happiness
+I write software and out of interest spends most of my time in building stuffs basically with Java, React, Angular etc. I like helping people by giving solutions with "what I know" and "what I have" to bring the ultimate developer satisfaction and happiness
     </div>
 </div>
 </br>
