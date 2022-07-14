@@ -17,6 +17,8 @@ I write software and out of interest spends most of my time in building stuffs b
 
 <hr></hr>
 
+
+
 <div style="-webkit-column-count: 2; -moz-column-count: 2; column-count: 2; -webkit-column-rule: 1px dotted #e0e0e0; -moz-column-rule: 1px dotted #e0e0e0; column-rule: 1px dotted #e0e0e0;">
    <div style="display: inline-block;">
   <a href="https://github.com/nidhishkrishnan"><img  align="left" src="https://github-readme-stats.vercel.app/api?username=nidhishkrishnan&show_icons=true&count_private=true&include_all_commits=true&hide=contribs&card_width=98"></a>
@@ -26,8 +28,24 @@ I write software and out of interest spends most of my time in building stuffs b
        </div></a>
 </div>
 
+<br/>
 
 
+<a href="https://github.com/nidhishkrishnan"><div style="display: inline-block;">
+        <img align="left" src="http://github-readme-streak-stats.herokuapp.com?user=nidhishkrishnan&date_format=j%20M%5B%20Y%5D">
+       </div></a>
+
+[![GitHub Streak]()](https://git.io/streak-stats)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=nidhishkrishnan)](https://github.com/ryo-ma/github-profile-trophy)
+
+
+
+![GitHub metrics](https://metrics.lecoq.io/nidhishkrishnan?count_private=true&include_all_commits=true)  
+
+
+<!--
+</p>
 
 
 
